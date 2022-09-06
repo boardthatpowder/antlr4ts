@@ -59,6 +59,6 @@ bin/
 .alm/
 
 # NPM pack output
-*.tgz
+*./tgz
 
 .history
